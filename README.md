@@ -12,6 +12,6 @@
 </a>
 
 
-<a href="salirodr@ucsc.edu">
+<a href="mailto:salirodr@ucsc.edu">
      <img src="https://user-images.githubusercontent.com/95718002/196139546-070966b0-0f5a-46af-81e9-2a457ff18787.png" style="width:30px;height:34px;">
 </a>
