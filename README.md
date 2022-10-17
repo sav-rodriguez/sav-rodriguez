@@ -8,7 +8,7 @@
 <h2>  Connect with me 🤳🏼:</h2>
 
 <a href="www.linkedin.com/in/savannah-r-linkpage"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px" >
+
+[Linkedin]: (www.linkedin.com/in/savannah-r-linkpage)
 </a>
-
-
 
