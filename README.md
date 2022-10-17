@@ -8,8 +8,10 @@
 <h2>  Connect with me 🤳🏼:</h2>
 
 <a href="https://www.linkedin.com/in/savannah-r-linkpage/">
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:25px;height:25px;">
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:30px;height:30px;">
 </a>
+
+
 <a href="salirodr@ucsc.edu">
-     <img scr="file:///Users/sav/Downloads/Gmail-logo-design-on-transparent-background-PNG.png" style="width:100px;height:100px;">
+     <img src="https://user-images.githubusercontent.com/95718002/196139546-070966b0-0f5a-46af-81e9-2a457ff18787.png" style="width:30px;height:34px;">
 </a>
