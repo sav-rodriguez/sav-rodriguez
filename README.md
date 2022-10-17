@@ -10,3 +10,6 @@
 <a href="https://www.linkedin.com/in/savannah-r-linkpage/">
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width:25px;height:25px;">
 </a>
+<a href="salirodr@ucsc.edu">
+     <img scr="file:///Users/sav/Downloads/Gmail-logo-design-on-transparent-background-PNG.png" style="width:100px;height:100px;">
+</a>
