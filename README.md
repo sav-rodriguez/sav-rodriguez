@@ -3,6 +3,10 @@
 
 <h2>  Data Analytics Projects 👩🏻‍💻:</h2>
 
+<ul>
+  <li><a href="https://github.com/sav-rodriguez/Google-Cyclistic-Project">Google Cyclistic Project</a>
+</li>  
+</ul>  
 
 
 <h2>  Connect with me 🤳🏼:</h2>
